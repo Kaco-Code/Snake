@@ -1,3 +1,6 @@
+# by Muhammad Ikbal
+
+
 import pygame
 from random import randint
 from pygame.locals import *

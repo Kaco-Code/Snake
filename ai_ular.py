@@ -1,9 +1,9 @@
 import pygame
-from random import randint, randrange
+from random import randint
 from pygame.locals import *
 
 
-class Ai:
+class OK:
     def __init__(self):
 
         self.stop        = False
@@ -130,5 +130,5 @@ class Ai:
         pygame.quit()
                     
 if __name__ == "__main__":
-    game = Ai()
+    game = OK()
     game.run()

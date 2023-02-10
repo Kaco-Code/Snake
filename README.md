@@ -6,8 +6,9 @@ Simple game snake auto dibuat dengan pygame, Python
 
 ## Use
 
-```
+```bash
 python -m pip install pygame
 python ular.py
 
+Tekan "SPACE" untuk menjalanakan
 ```

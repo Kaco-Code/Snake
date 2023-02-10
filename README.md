@@ -1,7 +1,7 @@
-# Snake
+# AutoSnakeGame
 
 Simple game snake auto dibuat dengan pygame, Python
 
-##Use
+## Use
 
 py -m pip install pygame

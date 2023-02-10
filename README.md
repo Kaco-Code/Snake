@@ -2,7 +2,7 @@
 
 Simple game snake auto dibuat dengan pygame, Python
 
-[![preview](/preview.gif)](https;//github.com/ikbal-hanafi/AutoSnakeGame)
+[![preview](/preview.gif)](/preview.gif)
 
 ## Use
 
